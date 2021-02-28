@@ -1,0 +1,2 @@
+C:\Users\ETNA\source\repos\c_programming\chapter_2\Debug\chapter_2.exe
+C:\Users\ETNA\source\repos\c_programming\chapter_2\Debug\chapter_2.pdb
